@@ -1,1 +1,1 @@
-var console ="nintendo64"
+var console ="gamecube"
