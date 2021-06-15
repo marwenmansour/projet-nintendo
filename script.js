@@ -1,1 +1,1 @@
-var console ="nintendo"
+var console ="super nintendo"
